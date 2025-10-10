@@ -53,7 +53,7 @@ This project is open source and available under the MIT License.
 
 ## Acknowledgements 🙏
 
-- Exchange rates API (custom or free APIs like exchangerate.host)
+- Exchange rates API https://frankfurter.dev
 - react-select: https://react-select.com
 - SVG icons: https://www.flaticon.com
 
